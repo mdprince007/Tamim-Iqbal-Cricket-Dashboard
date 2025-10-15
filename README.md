@@ -77,7 +77,9 @@ Each dataset includes:
 ![T20 Dashboard](https://github.com/mdprince007/Tamim-Iqbal-Cricket-Dashboard/blob/main/t20.png)
 
 ---
+🎯 [**Download Full Power BI Project (.pbix)**](https://github.com/mdprince007/Tamim-Iqbal-Cricket-Dashboard/blob/main/Tamim_iqbal.pbix)
 
+---
 ## 🚀 How to Use
 
 1. Download the `.pbix` Power BI file from this repo.  
@@ -90,9 +92,9 @@ Each dataset includes:
 ## 👨‍💻 Author
 
 **Md Asadujjaman Prince**  
-🎓 East West University | 🇧🇩 Bangladesh  
-📧 [YourEmail@example.com]  
-🌐 [LinkedIn Profile or Portfolio link here]
+🎓  🇧🇩 Bangladesh  
+📧 [mdprince.bd111@gmail.com]  
+🌐 [[LinkedIn Profile or Portfolio link here](https://www.linkedin.com/in/mdasadujjamanprince/)]
 
 ---
 
