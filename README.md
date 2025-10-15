@@ -68,13 +68,13 @@ Each dataset includes:
 ## 🖼️ Dashboard Previews
 
 ### 🏆 ODI Dashboard
-![ODI Dashboard](images/odi_dashboard.png)
+![ODI Dashboard](https://github.com/mdprince007/Tamim-Iqbal-Cricket-Dashboard/blob/main/odi.png)
 
 ### 🧱 Test Dashboard
-![Test Dashboard](images/test_dashboard.png)
+![Test Dashboard](https://github.com/mdprince007/Tamim-Iqbal-Cricket-Dashboard/blob/main/test.png)
 
 ### ⚡ T20 Dashboard
-![T20 Dashboard](images/t20_dashboard.png)
+![T20 Dashboard](https://github.com/mdprince007/Tamim-Iqbal-Cricket-Dashboard/blob/main/t20.png)
 
 ---
 
