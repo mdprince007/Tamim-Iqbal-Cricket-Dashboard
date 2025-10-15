@@ -94,7 +94,7 @@ Each dataset includes:
 **Md Asadujjaman Prince**  
 🎓  🇧🇩 Bangladesh  
 📧 [mdprince.bd111@gmail.com]  
-🌐 [[LinkedIn Profile or Portfolio link here](https://www.linkedin.com/in/mdasadujjamanprince/)]
+🌐 [[LinkedIn Profile](https://www.linkedin.com/in/mdasadujjamanprince/)]
 
 ---
 
